@@ -5,4 +5,4 @@
 * http://eloquentjavascript.net/
 
 #Javascript Videos
-> 
+* https://javascript30.com/
