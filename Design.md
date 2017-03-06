@@ -2,3 +2,4 @@
 
 * Is TDD Died - https://www.youtube.com/watch?v=z9quxZsLcfo
 * https://martinfowler.com/design.html
+* Uncle Bob - http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html
