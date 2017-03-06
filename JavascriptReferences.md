@@ -6,3 +6,6 @@
 
 #Javascript Videos
 * https://javascript30.com/
+
+#Topics
+* Javascript Without Loops - http://jrsinclair.com/articles/2017/javascript-without-loops/
