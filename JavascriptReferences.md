@@ -9,3 +9,6 @@
 
 #Topics
 * Javascript Without Loops - http://jrsinclair.com/articles/2017/javascript-without-loops/
+
+#Blogs
+* http://jrsinclair.com/web-development/
