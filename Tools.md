@@ -4,6 +4,9 @@
 * Browser Support Check - http://caniuse.com/
 * Regular Expresssion - http://rubular.com/
 
+### Source Control
+* Git Windows - http://incyclesoftware.com/2014/03/using-git-team-foundation-server-visual-studio-2013/
+
 ### Developer Playground
 
 * https://Hyperdev.com or https://gomix.com/
