@@ -1,15 +1,15 @@
-## Tools References
+# Tools References
 
 * Command line tool for Windows - http://cmder.net/
 
 
-## Developer Playground
+### Developer Playground
 
 * https://Hyperdev.com or https://gomix.com/
 * https://plnkr.co/
 * List of tools - http://www.catonmat.net/blog/fogcreek-interview/
 
-## Debugging and Diagnostics
+### Debugging and Diagnostics
 * Fiddler
    * http://www.telerik.com/fiddler
    * Advanced Debugging with Fiddler - http://www.mehdi-khalili.com/advanced-web-debugging-with-fiddler/
@@ -19,9 +19,10 @@
   * https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3
 * 
 
-## DotNet
+### DotNet
+* TODO
 
-## Performance Tools
+### Performance Tools
 * Profiler - http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/
 * Glimpse - 
     * http://getglimpse.com/ 
