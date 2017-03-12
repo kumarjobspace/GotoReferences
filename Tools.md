@@ -13,6 +13,7 @@
 * Fiddler
    * http://www.telerik.com/fiddler
    * Advanced Debugging with Fiddler - http://www.mehdi-khalili.com/advanced-web-debugging-with-fiddler/
+   * https://msdn.microsoft.com/en-us/library/bb250446(v=vs.85).aspx
 * Blogs
   * https://blogs.endjin.com/2015/03/amazingly-useful-chrome-developer-tips-1-inspecting-dynamically-created-dom-elements/
   * https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3
@@ -21,7 +22,6 @@
 ## DotNet
 
 ## Performance Tools
-* stevesouders - http://www.stevesouders.com/blog/2012/10/09/webperfdays-performance-tools/
 * Profiler - http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/
 * Glimpse - 
     * http://getglimpse.com/ 
@@ -29,4 +29,8 @@
 * http://miniprofiler.com/
 * PageSpeed - https://developers.google.com/speed/pagespeed/
 * http://yslow.org/
+* WebSites/Bogs
+  * stevesouders - http://www.stevesouders.com/blog/2012/10/09/webperfdays-performance-tools/
+  * https://w3c.github.io/navigation-timing/
+  * https://samsaffron.com/archive/2012/03/23/sam-s-ultimate-web-performance-tools-and-resources
 
