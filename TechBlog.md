@@ -5,6 +5,7 @@
 ## GitHub blog 
 * https://github.com/kilimchoi/engineering-blogs
 * https://github.com/sindresorhus/awesome
+* Must Watch - https://github.com/bolshchikov/js-must-watch
 
 ## DotNet
 * Coding Sight - http://codingsight.com/category/net/
@@ -17,6 +18,11 @@
 
 ## Design
 * DDD - http://dddweekly.com/
+* https://8thlight.com/blog/
+* https://99designs.com/tech-blog/
+* Caching - 
+  * https://www.mnot.net/cache_docs/
+  * https://speakerdeck.com/mnot/stupid-web-caching-tricks
 
 ## Pefrormance
 * HTTP - https://www.mnot.net/blog/2016/04/22/ideal-http
