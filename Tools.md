@@ -4,6 +4,7 @@
 * Browser Support Check - http://caniuse.com/
 * Regular Expresssion - http://rubular.com/
 * JSON to CSV - https://konklone.io/json/
+* SQLFiddle - http://sqlfiddle.com
 
 ### Developer Playground
 
