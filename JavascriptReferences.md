@@ -12,3 +12,4 @@
 
 #Blogs
 * http://jrsinclair.com/web-development/
+* Learning JavaScript Design Patterns - https://addyosmani.com/resources/essentialjsdesignpatterns/book/#wrapperpatternjquery 
