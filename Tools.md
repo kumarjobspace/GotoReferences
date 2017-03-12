@@ -2,6 +2,7 @@
 
 * Command line tool for Windows - http://cmder.net/
 * Browser Support Check - http://caniuse.com/
+* Regular Expresssion - http://rubular.com/
 
 ### Developer Playground
 
