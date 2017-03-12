@@ -3,9 +3,7 @@
 * Command line tool for Windows - http://cmder.net/
 * Browser Support Check - http://caniuse.com/
 * Regular Expresssion - http://rubular.com/
-
-### Source Control
-* Git Windows - http://incyclesoftware.com/2014/03/using-git-team-foundation-server-visual-studio-2013/
+* JSON to CSV - https://konklone.io/json/
 
 ### Developer Playground
 
@@ -35,6 +33,9 @@
 * Glimpse - 
     * http://getglimpse.com/ 
     * https://www.youtube.com/watch?v=IGMYogdKYyw
+* PreFix - 
+  * https://www.mikesdotnetting.com/article/296/exploring-prefix-a-free-asp-net-profiling-tool
+  * http://demo.prefix.io/
 * http://miniprofiler.com/
 * PageSpeed - https://developers.google.com/speed/pagespeed/
 * http://yslow.org/
