@@ -3,7 +3,7 @@
 * Mind Map - https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp
 
 ## GitHub blog 
-* https://github.com/kilimchoi/engineering-blogs#c-companies
+* https://github.com/kilimchoi/engineering-blogs
 * https://github.com/sindresorhus/awesome
 
 ## DotNet
@@ -17,3 +17,6 @@
 
 ## Design
 * DDD - http://dddweekly.com/
+
+## Pefrormance
+* HTTP - https://www.mnot.net/blog/2016/04/22/ideal-http
