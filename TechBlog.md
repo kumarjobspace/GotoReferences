@@ -6,6 +6,7 @@
 * https://github.com/kilimchoi/engineering-blogs
 * https://github.com/sindresorhus/awesome
 * Must Watch - https://github.com/bolshchikov/js-must-watch
+* JavaScript - https://github.com/ryanburgess/Development-Articles
 
 ## DotNet
 * Coding Sight - http://codingsight.com/category/net/
