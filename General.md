@@ -10,6 +10,7 @@
 * Zen - https://zenhabits.net/
 * Build your own AngularJS - http://teropa.info/build-your-own-angular/
 * Become webdevloper - https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.av5hzenct
+* http://try.jquery.com/
 
 # Git  Tutorials:
 * https://www.atlassian.com/git/tutorials
