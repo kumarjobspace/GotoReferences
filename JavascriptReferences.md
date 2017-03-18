@@ -1,8 +1,12 @@
+#Debugging
+* http://discover-devtools.codeschool.com/
+
 #Javascript Tutorial
 * http://ejohn.org/apps/learn
 * https://github.com/getify/You-Dont-Know-JS
 * http://jstherightway.org
 * http://eloquentjavascript.net/
+* http://javascript.crockford.com/
 
 #Javascript Videos
 * https://javascript30.com/
