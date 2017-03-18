@@ -9,9 +9,10 @@
 * Asp,net dynalic compilation - https://msdn.microsoft.com/en-us/library/ms366723.aspx
 * Zen - https://zenhabits.net/
 * Build your own AngularJS - http://teropa.info/build-your-own-angular/
-
+* Become webdevloper - https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.av5hzenct
 
 # Git  Tutorials:
 * https://www.atlassian.com/git/tutorials
 * https://www.codeschool.com/learn/git
 * CodeShcool Practice - https://try.github.io/levels/1/challenges/1
+
