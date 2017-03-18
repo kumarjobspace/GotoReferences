@@ -13,6 +13,7 @@
 
 #Topics
 * Javascript Without Loops - http://jrsinclair.com/articles/2017/javascript-without-loops/
+* You might not need Javascript - http://youmightnotneedjquery.com/
 
 #Blogs
 * http://jrsinclair.com/web-development/
