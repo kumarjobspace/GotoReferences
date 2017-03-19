@@ -7,7 +7,7 @@
 * http://jstherightway.org
 * http://eloquentjavascript.net/
 * http://javascript.crockford.com/
-* https://plainjs.com/javascript/plugins/ui/
+* https://plainjs.com
 
 #Javascript Videos
 * https://javascript30.com/
