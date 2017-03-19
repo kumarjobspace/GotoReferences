@@ -15,8 +15,16 @@
 * http://www.watchpeoplecode.com/
 * https://javascriptair.com/
 
+## DOM
+* https://www.w3.org/TR/DOM-Level-2-Core/introduction.html
+* http://prettydiff.com/guide/unrelated_dom.xhtml#intro
+* https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+* http://domenlightenment.com/#1.1
+* 
 # Git  Tutorials:
 * https://www.atlassian.com/git/tutorials
 * https://www.codeschool.com/learn/git
 * CodeShcool Practice - https://try.github.io/levels/1/challenges/1
+
+
 
