@@ -19,3 +19,4 @@
 #Blogs
 * http://jrsinclair.com/web-development/
 * Learning JavaScript Design Patterns - https://addyosmani.com/resources/essentialjsdesignpatterns/book/#wrapperpatternjquery 
+* Javascript invocation - http://blog.boyet.com/blog/javascriptlessons/javascript-for-c-developers-calling-functions-and-the-lsquo-this-rsquo-variable/
