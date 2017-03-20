@@ -20,3 +20,6 @@
 * http://jrsinclair.com/web-development/
 * Learning JavaScript Design Patterns - https://addyosmani.com/resources/essentialjsdesignpatterns/book/#wrapperpatternjquery 
 * Javascript invocation - http://blog.boyet.com/blog/javascriptlessons/javascript-for-c-developers-calling-functions-and-the-lsquo-this-rsquo-variable/
+
+# Javascript for C# developers
+* Function are objects - http://blog.boyet.com/blog/javascriptlessons/javascript-for-c-programmers-function-basics-and-scope/
