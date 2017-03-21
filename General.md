@@ -26,5 +26,9 @@
 * https://www.codeschool.com/learn/git
 * CodeShcool Practice - https://try.github.io/levels/1/challenges/1
 
+# Security
+### Cross  Orgin
+* https://developer.chrome.com/extensions/xhr
+* http://stackoverflow.com/questions/20035101/no-access-control-allow-origin-header-is-present-on-the-requested-resource
 
 
