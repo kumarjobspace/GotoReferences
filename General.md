@@ -31,4 +31,6 @@
 * https://developer.chrome.com/extensions/xhr
 * http://stackoverflow.com/questions/20035101/no-access-control-allow-origin-header-is-present-on-the-requested-resource
 
-
+# Develoers Survery
+* https://news.ycombinator.com/item?id=13929411
+* http://stackoverflow.com/insights/survey/2017/
