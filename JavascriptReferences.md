@@ -26,5 +26,5 @@
 
 # General JavaScript Topics
 * Modern JavaScript for Ancient Web Developers - 
-    https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9#.jdl48eqfc
+    https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9#.jdl48eqfc or             https://news.ycombinator.com/item?id=13940412
 * TODO
