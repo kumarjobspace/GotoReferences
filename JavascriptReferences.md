@@ -23,3 +23,8 @@
 
 # Javascript for C# developers
 * Function are objects - http://blog.boyet.com/blog/javascriptlessons/javascript-for-c-programmers-function-basics-and-scope/
+
+# General JavaScript Topics
+* Modern JavaScript for Ancient Web Developers - 
+    https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9#.jdl48eqfc
+* TODO
