@@ -1,7 +1,7 @@
-#Debugging
+# Debugging
 * http://discover-devtools.codeschool.com/
 
-#Javascript Tutorial
+#J avascript Tutorial
 * http://ejohn.org/apps/learn
 * https://github.com/getify/You-Dont-Know-JS
 * http://jstherightway.org
@@ -9,8 +9,12 @@
 * http://javascript.crockford.com/
 * https://plainjs.com
 
-#Javascript Videos
+# Javascript Videos
 * https://javascript30.com/
+* Traversy Media - https://www.youtube.com/user/TechGuyWeb
+* The Net Ninja - https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/featured
+
+
 
 #Topics
 * Javascript Without Loops - http://jrsinclair.com/articles/2017/javascript-without-loops/
