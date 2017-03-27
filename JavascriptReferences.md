@@ -2,6 +2,7 @@
 
 ### Debugging
 * http://discover-devtools.codeschool.com/
+* Extensions - https://www.youtube.com/watch?v=Pc6rnTFjJZI&t=541s
 
 ### Javascript Tutorial
 * http://ejohn.org/apps/learn
