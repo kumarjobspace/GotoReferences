@@ -7,6 +7,7 @@
 * http://joeduffyblog.com/
 * http://www.abhisheksur.com/
 * https://damieng.com/blog/2012/10/29/8-things-you-probably-didnt-know-about-csharp
+* http://www.interact-sw.co.uk/iangblog/
 
 
 # DotNet General
