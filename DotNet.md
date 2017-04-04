@@ -24,9 +24,9 @@
 * https://mva.microsoft.com/en-us/training-courses/microservices-design-and-patterns-16520?l=6uaeITHdC_5206218965
 * SPA - https://www.microsoft.com/net/tutorials/csharp/getting-started/encapsulation-oop
 * Tell, Dont Ask (TDA) - 
-  ** http://deviq.com/tell-dont-ask/
-  ** https://www.microsoft.com/net/tutorials/csharp/getting-started/encapsulation-oop
-  ** Null Object Design Pattern - http://www.cs.oberlin.edu/~jwalker/nullObjPattern/
+   * http://deviq.com/tell-dont-ask/
+   * https://www.microsoft.com/net/tutorials/csharp/getting-started/encapsulation-oop
+   * Null Object Design Pattern - http://www.cs.oberlin.edu/~jwalker/nullObjPattern/
 
 # News Letters
 * C# - https://csharpdigest.net/digests
