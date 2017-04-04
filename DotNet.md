@@ -8,6 +8,8 @@
 * http://www.abhisheksur.com/
 * https://damieng.com/blog/2012/10/29/8-things-you-probably-didnt-know-about-csharp
 * http://www.interact-sw.co.uk/iangblog/
+* https://www.microsoft.com/net/tutorials/csharp/getting-started/hello-world
+* 
 
 
 # DotNet General
@@ -17,7 +19,9 @@
 # Dotnet Internals
 
 
-# Design Patterns
+# Architecture/Design Patterns
+* https://www.microsoft.com/net/architecture
+* https://mva.microsoft.com/en-us/training-courses/microservices-design-and-patterns-16520?l=6uaeITHdC_5206218965
 
 
 # News Letters
