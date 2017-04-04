@@ -17,3 +17,7 @@
 
 
 # Design Patterns
+
+
+# News Letters
+* C# - https://csharpdigest.net/digests
