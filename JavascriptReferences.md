@@ -17,6 +17,9 @@
 * https://javascript30.com/
 * Traversy Media - https://www.youtube.com/user/TechGuyWeb
 * The Net Ninja - https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/featured
+* List - https://github.com/AllThingsSmitty/must-watch-javascript
+* Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
+* Douglas Crockford - https://www.youtube.com/playlist?list=PL5586336C26BDB324
 
 
 
