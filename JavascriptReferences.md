@@ -11,6 +11,7 @@
 * http://eloquentjavascript.net/
 * http://javascript.crockford.com/
 * https://plainjs.com
+* http://bonsaiden.github.io/JavaScript-Garden/
 
 ### Javascript Videos
 * https://javascript30.com/
