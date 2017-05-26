@@ -20,7 +20,7 @@
 * List - https://github.com/AllThingsSmitty/must-watch-javascript
 * Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 * Douglas Crockford - https://www.youtube.com/playlist?list=PL5586336C26BDB324
-
+* SOLID JavaScritpt - https://www.youtube.com/watch?v=TAVn7s-kO9o
 
 
 ### Topics
