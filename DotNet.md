@@ -12,6 +12,8 @@
 * 
 # Common Errors
 * https://stackify.com/top-net-software-errors/
+* https://stackify.com/nullreferenceexception-object-reference-not-set/
+* https://stackify.com/csharp-exception-handling-best-practices/
 
 
 # DotNet General
