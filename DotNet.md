@@ -10,6 +10,8 @@
 * http://www.interact-sw.co.uk/iangblog/
 * https://www.microsoft.com/net/tutorials/csharp/getting-started/hello-world
 * 
+# Common Errors
+* https://stackify.com/top-net-software-errors/
 
 
 # DotNet General
