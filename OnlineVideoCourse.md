@@ -5,3 +5,8 @@
 * Set Theory - http://www.cs.cmu.edu/~15210/schedule.html
 * http://www.parallel-algorithms-book.com/
 * https://egghead.io/
+
+# Misc
+*  Building A Billion User Load Balancer - SCALE 13x => https://www.youtube.com/watch?v=MKgJeqF1DHw
+* Scaling the Netflix Global CDN, lessons learned from Terabit Zero => https://www.youtube.com/watch?v=tbqcsHg-Q_o
+
