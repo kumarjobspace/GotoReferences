@@ -14,7 +14,7 @@
 * REST in plain english - http://www.looah.com/source/view/2284
 * http://www.watchpeoplecode.com/
 * https://javascriptair.com/
-
+* Load Balancing - https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/
 ## DOM
 * https://www.w3.org/TR/DOM-Level-2-Core/introduction.html
 * http://prettydiff.com/guide/unrelated_dom.xhtml#intro
