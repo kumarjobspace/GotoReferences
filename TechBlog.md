@@ -1,7 +1,10 @@
 ## General
 * https://8thlight.com/blog
 * Mind Map - https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp
-* Improve Skills - https://codewithoutrules.com/skills/
+
+## Improve Skills 
+* https://codewithoutrules.com/skills/
+* https://jvns.ca/categories/favorite/
 
 ## GitHub blog 
 * https://github.com/kilimchoi/engineering-blogs
