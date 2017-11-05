@@ -25,6 +25,8 @@
 * https://www.atlassian.com/git/tutorials
 * https://www.codeschool.com/learn/git
 * CodeShcool Practice - https://try.github.io/levels/1/challenges/1
+* How to undo the last commit in Git - https://stackoverflow.com/questions/927358/how-to-undo-the-last-commits-in-git#927386
+* Git from the Inside Out  - https://codewords.recurse.com/issues/two/git-from-the-inside-out
 
 # Security
 ### Cross  Orgin
