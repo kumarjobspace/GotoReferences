@@ -25,11 +25,20 @@
 * https://www.atlassian.com/git/tutorials
 * https://www.codeschool.com/learn/git
 * CodeShcool Practice - https://try.github.io/levels/1/challenges/1
-* How to undo the last commit in Git - https://stackoverflow.com/questions/927358/how-to-undo-the-last-commits-in-git#927386
 * Git from the Inside Out  - https://codewords.recurse.com/issues/two/git-from-the-inside-out
 * Git from the Bottom Up - https://jwiegley.github.io/git-from-the-bottom-up/
 * Git WorkFlow With Diagram - http://blog.osteele.com/2008/05/my-git-workflow/
-8 Git Book - https://git-scm.com/book/en/v2
+* Git Book - https://git-scm.com/book/en/v2
+* Stackoverflow questions on Git
+  * http://data.stackexchange.com/stackoverflow/query/36656/most-upvoted-answers
+  * How to undo the last commit in Git - https://stackoverflow.com/questions/927358/how-to-undo-the-last-commits-in-git#927386
+  * How do I delete a Git branch both locally and remotely? - https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely/2003515#2003515
+  * How to modify existing, unpushed commits? - https://stackoverflow.com/questions/179123/how-to-modify-existing-unpushed-commits/179147#179147
+  * How do I rename a local Git branch? - https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch/6591218#6591218
+  * What is the difference between 'git pull' and 'git fetch'? - https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch/292359#292359
+  * How to revert Git repository to a previous commit? - https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit/4114122#4114122
+  * How to remove local (untracked) files from the current Git working tree? - https://stackoverflow.com/questions/61212/how-to-remove-local-untracked-files-from-the-current-git-working-tree/64966#64966
+
 
 # Security
 ### Cross  Orgin
