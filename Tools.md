@@ -7,6 +7,7 @@
 * SQLFiddle - http://sqlfiddle.com
 * Freeformatter - https://www.freeformatter.com/html-formatter.html
 * Free drwaings - https://www.draw.io/
+* XML Validation - https://www.xmlvalidation.com/
 
 ### Source Controls
 * Source Tree (GUI Git App) - https://www.sourcetreeapp.com/
