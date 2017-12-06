@@ -5,6 +5,8 @@
 * Regular Expresssion - http://rubular.com/
 * JSON to CSV - https://konklone.io/json/
 * SQLFiddle - http://sqlfiddle.com
+* Freeformatter - https://www.freeformatter.com/html-formatter.html
+* Free drwaings - https://www.draw.io/
 
 ### Source Controls
 * Source Tree (GUI Git App) - https://www.sourcetreeapp.com/
