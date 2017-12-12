@@ -48,3 +48,8 @@
 * Modern JavaScript for Ancient Web Developers - 
     https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9#.jdl48eqfc or             https://news.ycombinator.com/item?id=13940412
 * TODO
+
+### Learn Javascript through JS libraries
+* Annotated Underscore - http://underscorejs.org/docs/underscore.html, http://underscorejs.org/underscore.js
+* Annotated JQuery - https://robflaherty.github.io/jquery-annotated-source/docs/01-core.html
+* Annotated Backbone - http://backbonejs.org/docs/backbone.html
