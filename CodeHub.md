@@ -7,3 +7,6 @@
 
 ## Coding Coventions
 * C# - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
+
+## Write Clean Code
+* https://www.toptal.com/front-end/frontend-clean-code-guide
