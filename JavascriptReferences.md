@@ -1,5 +1,8 @@
 # JavaScript References
 
+### Interview Questions
+* front-end-interview-preparation-guide - https://github.com/Jobeir/front-end-interview-preparation-guide#learn
+
 ### Debugging
 * http://discover-devtools.codeschool.com/
 * Extensions - https://www.youtube.com/watch?v=Pc6rnTFjJZI&t=541s
