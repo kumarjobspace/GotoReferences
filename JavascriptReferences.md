@@ -20,6 +20,9 @@
 * http://javascript.crockford.com/
 * https://plainjs.com
 * http://bonsaiden.github.io/JavaScript-Garden/
+* https://codehandbook.org/
+* https://learnxinyminutes.com
+* 
 
 ### Javascript Videos
 * https://javascript30.com/
