@@ -2,6 +2,7 @@
 
 ### Interview Questions
 * front-end-interview-preparation-guide - https://github.com/Jobeir/front-end-interview-preparation-guide#learn
+* THat JS Dude - http://www.thatjsdude.com/interview/
 
 ### Debugging
 * http://discover-devtools.codeschool.com/
