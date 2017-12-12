@@ -1,4 +1,7 @@
-# Tools References
+### General
+* http://play.typeracer.com/ - Typing Speed
+
+### Dev Tools References
 
 * Command line tool for Windows - http://cmder.net/
 * Browser Support Check - http://caniuse.com/
@@ -49,4 +52,5 @@
   * stevesouders - http://www.stevesouders.com/blog/2012/10/09/webperfdays-performance-tools/
   * https://w3c.github.io/navigation-timing/
   * https://samsaffron.com/archive/2012/03/23/sam-s-ultimate-web-performance-tools-and-resources
+
 
