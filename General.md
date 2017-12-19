@@ -38,6 +38,8 @@
   * What is the difference between 'git pull' and 'git fetch'? - https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch/292359#292359
   * How to revert Git repository to a previous commit? - https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit/4114122#4114122
   * How to remove local (untracked) files from the current Git working tree? - https://stackoverflow.com/questions/61212/how-to-remove-local-untracked-files-from-the-current-git-working-tree/64966#64966
+  * http://ohshitgit.com/
+  * http://hn.premii.com/#/article/15951825
 
 
 # Security
