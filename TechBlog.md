@@ -1,3 +1,6 @@
+## Personality
+* Joel on Software - https://www.joelonsoftware.com
+
 ## General
 * https://8thlight.com/blog
 * Mind Map - https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp
@@ -19,8 +22,6 @@
 
 ## MS Blog
 * The old new thing - https://blogs.msdn.microsoft.com/oldnewthing/
-* 
-
 
 ## Design
 * DDD - http://dddweekly.com/
