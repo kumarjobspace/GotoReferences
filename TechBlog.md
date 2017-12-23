@@ -5,7 +5,6 @@
 * https://8thlight.com/blog
 * Mind Map - https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp
 * http://danluu.com/
-* Computer Science - https://archive.org/details/ucberkeley_webcast_1o6078uavdo
 
 ## Improve Skills 
 * https://codewithoutrules.com/skills/
