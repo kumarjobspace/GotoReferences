@@ -11,3 +11,6 @@
 *  Building A Billion User Load Balancer - SCALE 13x => https://www.youtube.com/watch?v=MKgJeqF1DHw
 * Scaling the Netflix Global CDN, lessons learned from Terabit Zero => https://www.youtube.com/watch?v=tbqcsHg-Q_o
 
+
+# Design/Coding
+* Simple Made Easy - https://www.infoq.com/presentations/Simple-Made-Easy
