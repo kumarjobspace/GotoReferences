@@ -10,3 +10,5 @@
 
 # Micro Service
 * https://www.datawire.io/guide/introduction-architecture-guide/
+* http://hn.premii.com/#/article/16014278
+* http://microservices.io/patterns/
