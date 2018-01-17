@@ -7,3 +7,4 @@
 ### Links
 * Merge => https://stackoverflow.com/questions/14168677/merge-development-branch-with-master
 * Git Cheat Sheet - http://danielkummer.github.io/git-flow-cheatsheet/
+* Git Flow Comparision - https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac
