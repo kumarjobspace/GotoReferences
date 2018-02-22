@@ -1,4 +1,7 @@
-# C#
+# C# Learning Blogs
+* https://codewala.net/
+
+# C# Topic
 * Performance as a feature - http://mattwarren.org/
 * https://vslive.com/Blogs/News-and-Tips/2016/03/4-of-the-Best-C-Blogs-Weve-Found.aspx
 * http://seesharpdeveloper.blogspot.com/
@@ -9,7 +12,8 @@
 * https://damieng.com/blog/2012/10/29/8-things-you-probably-didnt-know-about-csharp
 * http://www.interact-sw.co.uk/iangblog/
 * https://www.microsoft.com/net/tutorials/csharp/getting-started/hello-world
-* 
+* https://codewala.net/2018/02/20/using-null-conditional-operators/
+
 # Common Errors
 * https://stackify.com/top-net-software-errors/
 * https://stackify.com/nullreferenceexception-object-reference-not-set/
