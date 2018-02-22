@@ -1,5 +1,6 @@
 # C# Learning Blogs
 * https://codewala.net/
+* https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
 
 # C# Topic
 * Performance as a feature - http://mattwarren.org/
