@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/9834689/comparing-two-branches-in-git
 # Git Tutorials:
 * https://www.atlassian.com/git/tutorials
 * https://www.codeschool.com/learn/git
-* CodeShcool Practice - https://try.github.io/levels/1/challenges/1
+* Git Playground - https://try.github.io/levels/1/challenges/1
 * Git from the Inside Out  - https://codewords.recurse.com/issues/two/git-from-the-inside-out
 
 ## GitHub blog 
