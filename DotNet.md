@@ -14,6 +14,8 @@
 * http://www.interact-sw.co.uk/iangblog/
 * https://www.microsoft.com/net/tutorials/csharp/getting-started/hello-world
 * https://codewala.net/2018/02/20/using-null-conditional-operators/
+* .NET Versioning - http://www.hanselman.com/blog/NETVersioningAndMultiTargetingNET45IsAnInplaceUpgradeToNET40.aspx
+* Detect .NET Runtime - https://stackoverflow.com/questions/8517159/how-do-i-detect-at-runtime-that-net-version-4-5-is-currently-running-your-code/8543850#8543850
 
 # Common Errors
 * https://stackify.com/top-net-software-errors/
