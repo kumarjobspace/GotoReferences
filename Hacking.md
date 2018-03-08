@@ -6,3 +6,6 @@ NuGet package restore does not modify the project files. It just downloads and e
 If you are trying to edit the packages.config file and then have the project's updated you would have to use the Package Manager Console and run:
 
 How to install a package into all projects of a solution - Get-Project -All | Install-Package packageName
+
+
+PM> Get-Project -All | Install-Package Newtonsoft.Json -Version 9.0.1
