@@ -14,6 +14,10 @@
       git checkout .
    * You can also revert uncommitted changes only to particular file or directory:
       git checkout [some_dir|file.txt]
+* Rename branch - https://stackoverflow.com/questions/30590083/how-to-rename-a-remote-git-branch-name
+   * rename the local branch to the new name => git branch -m old_name new_name 
+   * delete the old branch on remote - where <remote> is eg. origin => git push <remote> --delete old_name
+   * push the new branch to remote => git push <remote> new_name
 
 
 
