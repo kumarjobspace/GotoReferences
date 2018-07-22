@@ -7,3 +7,4 @@
 * http://www.spoj.com/
 * https://leetcode.com/
 * https://learnxinyminutes.com
+* Life Long Learning - https://github.com/daryllxd/lifelong-learning/tree/master/programming/philosophy
