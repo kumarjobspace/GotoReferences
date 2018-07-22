@@ -14,3 +14,6 @@
 
 # Design/Coding
 * Simple Made Easy - https://www.infoq.com/presentations/Simple-Made-Easy
+
+# Languages
+* c# - https://www.youtube.com/user/IAmTimCorey/videos
