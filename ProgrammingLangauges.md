@@ -9,6 +9,9 @@
 # Javascript
 
 
+# Tech Talks
+* CSharp Internals/Performance - http://mattwarren.org/2018/07/12/Presentations-and-Talks-covering-.NET-Internals/#netmemorylego
+
 # Progaming Practice Sites
 * https://automatetheboringstuff.com/list-of-programming-practice-sites.html
 * Daily Programming - https://www.reddit.com/r/dailyprogrammer/
