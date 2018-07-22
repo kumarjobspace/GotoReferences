@@ -1,3 +1,14 @@
+# CSharp
+* https://github.com/wilfreddesert/C-sharp_more_awesome/blob/master/README.md
+* https://goalkicker.com/CSharpBook/
+
+
+# Angular
+*
+
+# Javascript
+
+
 # Progaming Practice Sites
 * https://automatetheboringstuff.com/list-of-programming-practice-sites.html
 * Daily Programming - https://www.reddit.com/r/dailyprogrammer/
