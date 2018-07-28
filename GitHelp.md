@@ -1,5 +1,5 @@
 ### GIT Commands
-* https://github.com/k88hudson/git-flight-rules#i-want-to-start-a-local-repository
+* https://github.com/k88hudson/git-flight-rules
 * Commit a particular file
   * git add Database/FQHCLA_5_0_0_Deployment_Steps.xlsx - Stage
   * git commit -m 'changed db steps' - Commit
