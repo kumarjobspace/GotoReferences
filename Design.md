@@ -12,3 +12,8 @@
 * https://www.datawire.io/guide/introduction-architecture-guide/
 * http://hn.premii.com/#/article/16014278
 * http://microservices.io/patterns/
+
+
+# Best Practices
+* Common software measurements - https://en.wikipedia.org/wiki/Software_metric
+* Cyclomatic Complexity - https://en.wikipedia.org/wiki/Cyclomatic_complexity
