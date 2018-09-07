@@ -11,3 +11,4 @@ Search for the file you need
 Close the process that has the handle
 
 * https://superuser.com/questions/1039567/this-action-cannot-be-completed-because-the-file-is-open-in-another-application
+* https://www.reddit.com/r/AdviceAnimals/comments/2dvbva/the_action_cant_be_completed_because_the_folder/cjtmywc/
