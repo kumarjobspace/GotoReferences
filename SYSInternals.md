@@ -1,11 +1,13 @@
 ## System Internals
 
-* This action cannot be completed because the file is open in another application
-o find and close the process that has the file open, do this:
+* Problem - This action cannot be completed because the file is open in another application
+* Solution -
+
+find and close the process that has the file open, do this:
 
 Open resource monitor
 Open the CPU tab in the monitor
-Select all processes (not sure if this is needed, you can probably just search for the handle)
+Select all processes (not sure if this is needed, you can probably just search for the handle)v
 Expand "associated handles"
 Search for the file you need
 Close the process that has the handle
