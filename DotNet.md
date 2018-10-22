@@ -9,6 +9,8 @@
 
 # C# Topic
 * Performance as a feature - http://mattwarren.org/
+* Addressing a Simple Yet Common C# Async/Await Misconception - 
+https://www.codeproject.com/Articles/1229574/Addressing-a-Simple-Yet-Common-Csharp-Async-Await
 * https://vslive.com/Blogs/News-and-Tips/2016/03/4-of-the-Best-C-Blogs-Weve-Found.aspx
 * http://seesharpdeveloper.blogspot.com/
 * https://blog.maartenballiauw.be/
