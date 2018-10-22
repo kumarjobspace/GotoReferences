@@ -1,6 +1,11 @@
-# C# Learning Blogs
+# Best C# Blogs
 * https://codewala.net/
 * https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
+* http://benhall.io/ - Various topics on C# and .NET
+* Best C# article of 2018 - https://www.codeproject.com/Competitions/1041/Best-Csharp-Article-of-April-2018.aspx
+* Best Article of July 2018 - https://www.codeproject.com/Competitions/1058/Best-Article-of-July-2018.aspx
+
+
 
 # C# Topic
 * Performance as a feature - http://mattwarren.org/
