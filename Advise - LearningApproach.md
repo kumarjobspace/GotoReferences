@@ -3,6 +3,12 @@
 
 # What to learn
 * Stop Learning Frameworks - https://sizovs.net/2018/12/17/stop-learning-frameworks/?utm_source=hackernewsletter&utm_medium=email&utm_term=code&mc_cid=7c5ca3f9cd&mc_eid=a9f03f7ad2
+* Evolutionary Architecture
+* Clean Code, Design Patterns, DDD
+* Lean manufacturing principles
+* Fault Tolerance Patterns
+* Continuous Delivery
+* Web, HTTP and REST
 
 # Learning Approaches
 * https://jvns.ca/blog/2017/08/06/learning-at-work/
