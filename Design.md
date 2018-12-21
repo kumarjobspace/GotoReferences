@@ -12,6 +12,7 @@
 * https://www.datawire.io/guide/introduction-architecture-guide/
 * http://hn.premii.com/#/article/16014278
 * http://microservices.io/patterns/
+* Microservices as an Evolutionary Architecture - https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture
 
 
 # Best Practices
