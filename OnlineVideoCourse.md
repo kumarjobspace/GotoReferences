@@ -1,3 +1,6 @@
+ # General
+ * How to Win - https://www.youtube.com/watch?v=LH1bewTg-P4
+ 
  # Tech Talks:
  * List - https://hn.premii.com/#/comments/18740939
  
