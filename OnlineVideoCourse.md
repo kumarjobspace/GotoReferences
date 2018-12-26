@@ -1,3 +1,6 @@
+ # Tech Talks:
+ * List - https://hn.premii.com/#/comments/18740939
+ 
  # Online Video Courses
  * https://www.techiedelight.com/best-online-courses-data-structures-algorithms/
 
