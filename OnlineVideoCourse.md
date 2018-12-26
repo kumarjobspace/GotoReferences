@@ -21,3 +21,5 @@
 # C# Languages
 * https://www.youtube.com/user/IAmTimCorey/videos
 * https://www.youtube.com/channel/UCJ3AxeCHGPZkMi3kRfCuiHw
+
+* Kubernates and Serverless - https://www.youtube.com/watch?v=oNa3xK2GFKY&feature=youtu.be
