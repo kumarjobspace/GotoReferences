@@ -1,5 +1,10 @@
 ### General
+
 * http://play.typeracer.com/ - Typing Speed
+
+### Diagrams
+* https://www.yworks.com/products/yed-live
+* https://news.ycombinator.com/item?id=18788244
 
 ### Dev Tools References
 
