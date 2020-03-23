@@ -1,3 +1,8 @@
 # ow to check .net framework instlaeld 
 
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework
+OPtion 1: C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework
+
+
+OPtion 2: https://stackoverflow.com/questions/199080/how-do-i-detect-what-net-framework-versions-and-service-packs-are-installed
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\v4.0.30319\SKUs
